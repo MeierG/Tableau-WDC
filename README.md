@@ -1,1 +1,1 @@
-# Tableau-WDC
+# Tableau Web Data Connector
